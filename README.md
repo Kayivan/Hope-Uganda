@@ -1,8 +1,8 @@
-Hope Uganda
+Geno Uganda
 
-Welcome to Hope Uganda!
+Welcome to Geno Uganda!
 
-Hope Uganda is a non-profit organization based in Jinja, Uganda, dedicated to improving community health, sanitation, and youth empowerment. Our mission is to provide sustainable solutions to critical challenges such as poor drainage, stagnant water, mosquito-borne diseases, inadequate sanitation, and lack of health education.
+Geno Uganda is a non-profit organization based in Jinja, Uganda, dedicated to improving community health, sanitation, and youth empowerment. Our mission is to provide sustainable solutions to critical challenges such as poor drainage, stagnant water, mosquito-borne diseases, inadequate sanitation, and lack of health education.
 
  🌍 Our Mission
 
@@ -41,7 +41,7 @@ Website link: https://github.com/Kayivan/Hope-Uganda/tree/main
 Email:# Hope Uganda
 Welcome to Hope Uganda!  
 
-Hope Uganda is a non-profit organization based in Jinja, Uganda, dedicated to improving community health, sanitation, and youth empowerment. Our mission is to provide sustainable solutions to critical challenges such as poor drainage, stagnant water, mosquito-borne diseases, inadequate sanitation, and lack of health education.
+Geno Uganda is a non-profit organization based in Jinja, Uganda, dedicated to improving community health, sanitation, and youth empowerment. Our mission is to provide sustainable solutions to critical challenges such as poor drainage, stagnant water, mosquito-borne diseases, inadequate sanitation, and lack of health education.
 
 🌍 Our Mission
 
